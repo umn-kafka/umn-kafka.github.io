@@ -15,6 +15,12 @@ Yes.
 
 Probably.
 
+### How is the Kafka cluster configured and governed?
+
+Configuration code is stored in the [https://github.umn.edu/kafka/cluster_configuration](https://github.umn.edu/kafka/cluster_configuration) repository.
+
+Governance, documentation, etc. is stored in the [https://github.umn.edu/kafka/documentation/wiki](https://github.umn.edu/kafka/documentation/wiki) wiki
+
 ### I have more questions
 
-[Join the Kafka User Group](https://groups.google.com/a/umn.edu/d/forum/kafka) or the #Kafka channel in the [Tech-People Slack](http://tech-people.umn.edu/tech-people-slack)
+[Join the Kafka User Group](https://groups.google.com/a/umn.edu/d/forum/kafka) or the `#Kafka` channel in the [Tech-People Slack](http://tech-people.umn.edu/tech-people-slack)
