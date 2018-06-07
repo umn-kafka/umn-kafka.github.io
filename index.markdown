@@ -5,6 +5,24 @@ title: Kafka User Group
 
 Home of users of [Apache Kafka](http://kafka.apache.org) at the University of Minnesota.
 
+## Kafka Brownbag - June 20th
+
+Want to see Kafka in action? Want to ask question about using Kafka? Then come to our first Kafka Brownbag. In this session we will talk about:
+
+- The Kafka ecosystem and what's currently available on campus
+- Getting data in to and out of Kafka using Connect and the REST API
+- Schemas and Avro encoding
+- Any other Kafka stuff you want to talk about
+
+Bring a lunch if you want to eat; bring a laptop if you want to type. Neither is required.
+
+- When: Wednesday, June 20<sup>th</sup> Noon - 1:30pm
+- Where: TBD (likely Humphrey 50B)
+
+[*RSVP Now!*](https://z.umn.edu/kafka_brownbag_rsvp)
+
+<hr /> 
+
 ## Frequently Asked Questions
 
 ### Is there a Kafka cluster on campus?
