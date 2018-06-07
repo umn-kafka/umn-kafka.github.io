@@ -17,7 +17,7 @@ Want to see Kafka in action? Want to ask question about using Kafka? Then come t
 Bring a lunch if you want to eat; bring a laptop if you want to type. Neither is required.
 
 - When: Wednesday, June 20<sup>th</sup> Noon - 1:30pm
-- Where: TBD (likely Humphrey 50B)
+- Where: [Humphrey 50B](https://roomsearch.umn.edu/roomsearch/#/rooms/2fb9fc27-27f8-4b49-abb5-f3521fe6d4d0)
 
 [*RSVP Now!*](https://z.umn.edu/kafka_brownbag_rsvp)
 
