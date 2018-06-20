@@ -5,6 +5,14 @@ title: Kafka User Group
 
 Home of users of [Apache Kafka](http://kafka.apache.org) at the University of Minnesota.
 
+## Kafka User Group Meeting - July 11th, 2pm - 4pm
+
+Discussion and questions about Kafka. Held as part of Hacker Hours
+
+Wednesday, July 11th<br/>
+2pm - 4pm<br />
+Bruininks Hall 121
+
 ## Kafka Brownbag - June 20th
 
 Want to see Kafka in action? Want to ask question about using Kafka? Then come to our first Kafka Brownbag. In this session we will talk about:
