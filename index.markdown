@@ -3,50 +3,52 @@ layout: page
 title: Kafka User Group
 ---
 
-Home of users of [Apache Kafka](http://kafka.apache.org) at the University of Minnesota.
+<div class="jumbotron">
+  <h2 class="display-5">Home of users of <a href="http://kafka.apache.org">Apache Kafka</a> at the University of Minnesota.</h2>
+</div>
 
-## Kafka User Group Meeting - July 11th, 2pm - 4pm
+<div class="row">
+  <div class="col">
+    <h2>Frequently Asked Questions</h2>
 
-Discussion and questions about Kafka. Held as part of Hacker Hours
+    <h3>Is there a Kafka cluster on campus?</h3>
 
-Wednesday, July 11th<br/>
-2pm - 4pm<br />
-Bruininks Hall 121
+    <p>Yes.</p>
 
-## Kafka Brownbag - June 20th
+    <h3>Can I use it?</h3>
 
-[Talk text, demo code, etc](https://github.com/umn-asr/kafka_brownbag)
+    <p>Probably.</p>
 
-Want to see Kafka in action? Want to ask question about using Kafka? Then come to our first Kafka Brownbag. In this session we will talk about:
+    <h3>How is the Kafka cluster configured and governed?</h3>
 
-- The Kafka ecosystem and what's currently available on campus
-- Getting data in to and out of Kafka using Connect and the REST API
-- Schemas and Avro encoding
-- Any other Kafka stuff you want to talk about
+    <p>Configuration code is stored in the <a href="https://github.umn.edu/kafka/cluster_configuration">https://github.umn.edu/kafka/cluster_configuration</a> repository.</p>
 
-Bring a lunch if you want to eat; bring a laptop if you want to type. Neither is required.
+    <p>Governance, documentation, etc. is stored in the <a href="https://github.umn.edu/kafka/documentation/wiki">https://github.umn.edu/kafka/documentation/wiki</a> wiki</p>
 
-- When: Wednesday, June 20<sup>th</sup> Noon - 1:30pm
-- Where: [Humphrey 50B](https://roomsearch.umn.edu/roomsearch/#/rooms/2fb9fc27-27f8-4b49-abb5-f3521fe6d4d0)
+    <h3>I have more questions</h3>
 
-<hr /> 
+    <p><a href="https://groups.google.com/a/umn.edu/d/forum/kafka">Join the Kafka User Group</a> or the <code>#Kafka</code> channel in the <a href="http://tech-people.umn.edu/tech-people-slack">Tech-People Slack</a>.</p>
 
-## Frequently Asked Questions
+  </div>
+  <div class="col-3">
+    <h3>Upcoming Events</h3>
 
-### Is there a Kafka cluster on campus?
+    <h4>Kafka User Group Meeting - July 11th, 2pm - 4pm</h4>
 
-Yes.
+    <p>Discussion and questions about Kafka. Held as part of Hacker Hours</p>
 
-### Can I use it?
+    <p>
+    Wednesday, July 11th<br/>
+    2pm - 4pm<br />
+    Bruininks Hall 121
+    </p>
+    
+    <hr />
+    
+    <h3>Past Events</h3>
 
-Probably.
+    <h4>Kafka Brownbag - June 20th</h4>
 
-### How is the Kafka cluster configured and governed?
-
-Configuration code is stored in the [https://github.umn.edu/kafka/cluster_configuration](https://github.umn.edu/kafka/cluster_configuration) repository.
-
-Governance, documentation, etc. is stored in the [https://github.umn.edu/kafka/documentation/wiki](https://github.umn.edu/kafka/documentation/wiki) wiki
-
-### I have more questions
-
-[Join the Kafka User Group](https://groups.google.com/a/umn.edu/d/forum/kafka) or the `#Kafka` channel in the [Tech-People Slack](http://tech-people.umn.edu/tech-people-slack)
+    <a href="https://github.com/umn-asr/kafka_brownbag">Talk text, demo code, etc</a>
+  </div>
+</div>
